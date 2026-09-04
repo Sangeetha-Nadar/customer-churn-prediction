@@ -1,0 +1,25 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+flask
+fastapi
+statsmodels
+ipykernel
+PyYAML
+dill
+shap
+jinja2 
+python-multipart
+uvicorn
+xgboost
+mlflow
+xlsxwriter
+python-dotenv
+imblearn
+dagshub
+pytest
+pytest-cov
+joblib
+#-e .

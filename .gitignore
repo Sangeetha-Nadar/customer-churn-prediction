@@ -1,0 +1,49 @@
+Churn/*
+Churn.egg-info/*
+artifacts/*
+__pycache__*
+constants/*
+data/*
+notebooks
+logs/*
+prediction_app_logs/*
+myenv_environment.yml
+prj_str.py
+setup.py
+mlruns/
+artifacts/
+*.pl
+*.joblib
+
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite
+.env
+.vscode/
+.idea/
+index.html
+my_entire_pipeline.py/
+project_documentation.md/
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Conda environments (if kept in project)
+.conda/
+
+# VS Code
+.vscode/
+
+# ML artifacts
+artifacts/
+logs/
+mlruns/
